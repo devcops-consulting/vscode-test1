@@ -2,3 +2,5 @@
 Test VSCode GIT integration
 
 Lokálisan változtatom a kódot
+
+teszt 2
